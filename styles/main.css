@@ -1,0 +1,10 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}
+header h2 {
+    font-size: 250%;
+}
+img {
+    max-width: 500px;
+}
